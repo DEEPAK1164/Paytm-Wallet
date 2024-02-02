@@ -37,7 +37,7 @@ Welcome to the Paytm Wallet App! This application allows users to perform variou
 5. **Start the Server:**
 
    ```bash
-   npm start
+   node index.js
    ```
 
    The backend server should now be running.
